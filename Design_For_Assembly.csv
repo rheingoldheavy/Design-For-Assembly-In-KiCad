@@ -1,0 +1,10 @@
+REF,VALUE,PACKAGE,MFR,MFRPN,DESCRIPTION,X,Y,ROTATION,SUPPLIER,KITTING,LINK,LINK PAGE
+BT1,CR2032,S8211_BATT_HOLDER,Harwin Inc.,S8211-46R,Battery Holder,0.72,0.68,90,C,56mm w/leader,http://harwin.com/includes/pdfs/S8211R.pdf,1
+C1,1uF,SM0805,Yageo,CC0805ZRY5V8BB105,Capacitor 1uF 0805,1.025,0.125,0,C,8mm w/leader,http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_5_revised.pdf,1
+D1,LED,LED-0805,Kingbright,L53HD,Red LED 0805,0.35,0.1,180,C,8mm w/leader,http://datasheet.octopart.com/L53HD-Kingbright-datasheet-8325130.pdf,1
+FID1,FIDUCIAL,Fiducial,N/A,N/A,FID1,0,0.95,0,N/A,N/A,N/A,N/A
+FID2,FIDUCIAL,Fiducial,N/A,N/A,FID2,1.45,0,0,N/A,N/A,N/A,N/A
+FID3,FIDUCIAL,Fiducial,N/A,N/A,FID3,0,0,0,N/A,N/A,N/A,N/A
+R1,470K,SM0805,Panasonic,ERJ-6GEYJ474V,Resistor 470K 0805,0.875,0.15,270,C,8mm w/leader,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEYJ474V+7+WW,1
+R2,100,SM0805,Panasonic,ERJ-6GEYJ101V,Resistor 100 0805,0.35,0.25,180,C,8mm w/leader,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEYJ101V+7+WW,1
+U1,7555,SO8E_Oriented,Maxim Integrated,ICM7555ESA+,7555 IC SOIC8,0.6,0.18,0,C,8mm w/leader,http://datasheets.maximintegrated.com/en/ds/ICM7555-ICM7556.pdf,26

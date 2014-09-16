@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 9/13/2014 4:12:17 PM
+
+BeginCmp
+TimeStamp = /5414788C;
+Reference = BT1;
+ValeurCmp = CR2032;
+IdModule  = S8211_BATT_HOLDER;
+EndCmp
+
+BeginCmp
+TimeStamp = /541476A8;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54147699;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54149332;
+Reference = FID1;
+ValeurCmp = FIDUCIAL;
+IdModule  = Fiducial;
+EndCmp
+
+BeginCmp
+TimeStamp = /5414933F;
+Reference = FID2;
+ValeurCmp = FIDUCIAL;
+IdModule  = Fiducial;
+EndCmp
+
+BeginCmp
+TimeStamp = /54149345;
+Reference = FID3;
+ValeurCmp = FIDUCIAL;
+IdModule  = Fiducial;
+EndCmp
+
+BeginCmp
+TimeStamp = /5414767E;
+Reference = R1;
+ValeurCmp = 470K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54147691;
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54148617;
+Reference = RV1;
+ValeurCmp = 10K;
+IdModule  = POT_3339H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5414766F;
+Reference = U1;
+ValeurCmp = 7555;
+IdModule  = SO8E_Oriented;
+EndCmp
+
+EndListe
